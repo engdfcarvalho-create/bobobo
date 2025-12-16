@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Bó Detector",
+  "description": "A vibrant voice-reactive app that detects the word 'Bó' using Gemini Live API and creates visual explosions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
